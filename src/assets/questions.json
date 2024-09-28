@@ -1,0 +1,59 @@
+{
+    "questions": [
+      {
+        "questionText": "Which of the following is used to specify a comment in Java?",
+        "options": [
+          {
+            "text": "//",
+            "correct": true
+          },
+          {
+            "text": "/* */"
+          },
+          {
+            "text": "#"
+          },
+          {
+            "text": "--"
+          }
+        ]
+      },
+      {
+        "questionText": "In Java, what is the purpose of the 'static' keyword?",
+        "options": [
+          {
+            "text": "To make a variable non-modifiable"
+          },
+          {
+            "text": "To indicate that a method or variable belongs to the class rather than an instance",
+            "correct": true
+          },
+          {
+            "text": "To allow a class to be instantiated"
+          },
+          {
+            "text": "To make a method private"
+          }
+        ]
+      },
+      {
+        "questionText": "Which Java keyword is used to handle exceptions?",
+        "options": [
+          {
+            "text": "try"
+          },
+          {
+            "text": "throw"
+          },
+          {
+            "text": "catch",
+            "correct": true
+          },
+          {
+            "text": "finally"
+          }
+        ]
+      }
+    ]
+  }
+  
